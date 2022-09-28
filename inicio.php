@@ -15,7 +15,6 @@
     <div class="titulo">
         <h1>KUTUFFLÁS</h1> 
     </div>
-    <center><h2 class="subtitulo">RED SOCIAL</h2></center>
 </header>
 
                 <nav class="navbar">
